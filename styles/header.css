@@ -79,4 +79,15 @@
 .right-section {
   background-color: lightpink;
   width: 200px;
+  display: flex;
+}
+
+.upload-icon,
+.youtube-apps-icon,
+.notification-icon {
+  height: 24px
+}
+
+.current-user-pciture {
+  height: 32px;
 }
